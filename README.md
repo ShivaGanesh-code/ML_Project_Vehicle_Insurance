@@ -306,7 +306,7 @@ sudo sh get-docker.sh
 ### Access Application
 
 ```
-http://<EC2_PUBLIC_IP>:5080
+http://<EC2_PUBLIC_IP>:5000
 ```
 
 ---
@@ -333,7 +333,7 @@ Routes:
 You can trigger model training directly:
 
 ```
-http://<IP>:5080/training
+http://<IP>:5000/training
 ```
 
 ---
@@ -376,12 +376,3 @@ AI / ML Engineer | MLOps Enthusiast
 
 ---
 
-💡 If you want, I can also improve this further by adding:
-
-* **Badges (Docker, AWS, Python, CI/CD)**
-* **Architecture diagrams**
-* **Screenshots of the web app**
-* **GIF demo**
-* **Better recruiter-focused formatting**
-
-These make the README **10x more impressive on GitHub**.
